@@ -1,1 +1,211 @@
-[{"aqi": 37, "time": "2020-03-27 17:00:00", "city": "ALBA"}, {"aqi": 20, "time": "2020-03-27 20:00:00", "city": "ARAD"}, "City not found", {"aqi": 30, "time": "2020-03-27 20:00:00", "city": "BACAU"}, "City not found", "City not found", {"aqi": 20, "time": "2020-03-27 20:00:00", "city": "BOTOSANI"}, {"aqi": 26, "time": "2020-03-27 20:00:00", "city": "BRASOV"}, {"aqi": 29, "time": "2020-03-27 19:00:00", "city": "BRAILA"}, "City not found", "City not found", "City not found", {"aqi": 13, "time": "2020-03-27 20:00:00", "city": "CLUJ"}, {"aqi": 94, "time": "2020-03-22 08:00:00", "city": "CONSTANTA"}, "City not found", "City not found", "City not found", {"aqi": 34, "time": "2020-03-27 20:00:00", "city": "GALATI"}, {"aqi": 38, "time": "2020-03-27 20:00:00", "city": "GIURGIU"}, "City not found", "City not found", {"aqi": 40, "time": "2020-03-27 19:00:00", "city": "HUNEDOARA"}, "City not found", {"aqi": 25, "time": "2020-03-27 20:00:00", "city": "IASI"}, "City not found", "City not found", "City not found", "City not found", "City not found", "City not found", "City not found", {"aqi": 17, "time": "2020-03-27 20:00:00", "city": "SATU MARE"}, "City not found", {"aqi": 26, "time": "2020-03-27 20:00:00", "city": "SIBIU"}, {"aqi": 29, "time": "2020-03-27 20:00:00", "city": "SUCEAVA"}, "City not found", "City not found", {"aqi": 47, "time": "2020-03-27 20:00:00", "city": "TULCEA"}, {"aqi": 39, "time": "2020-03-27 20:00:00", "city": " VASLUI"}, {"aqi": 17, "time": "2020-03-27 20:00:00", "city": "VALCEA"}, "City not found", {"aqi": 149, "time": "2020-03-27 20:00:00", "city": "BUCURESTI"}]
+[
+    {
+        "city": "ALBA",
+        "aqi": 20,
+        "time": "2020-05-20 07:00:00",
+        "temperature": 10.4,
+        "pressure": 1001.3,
+        "humidity": 74.2,
+        "wind": 3,
+        "masini": 19992,
+        "level": "good"
+    },
+    {
+        "city": "ARAD",
+        "aqi": 24,
+        "time": "2020-05-20 10:00:00",
+        "temperature": 15,
+        "pressure": 1011,
+        "humidity": 100,
+        "wind": 6.6,
+        "masini": 24984,
+        "level": "good"
+    },
+    {
+        "city": "BACAU",
+        "aqi": 23,
+        "time": "2020-05-20 10:00:00",
+        "temperature": 17.2,
+        "pressure": 993.9,
+        "humidity": 64.3,
+        "wind": 3,
+        "masini": 24970,
+        "level": "good"
+    },
+    {
+        "city": "BOTOSANI",
+        "aqi": 20,
+        "time": "2020-05-20 10:00:00",
+        "temperature": 15,
+        "pressure": 996.4,
+        "humidity": 74,
+        "wind": 2,
+        "masini": 11008,
+        "level": "good"
+    },
+    {
+        "city": "BRASOV",
+        "aqi": 16,
+        "time": "2020-05-20 10:00:00",
+        "temperature": 14.4,
+        "pressure": 1009.3,
+        "humidity": 91,
+        "wind": 1.4,
+        "masini": 26595,
+        "level": "good"
+    },
+    {
+        "city": "BRAILA",
+        "aqi": 23,
+        "time": "2020-05-20 10:00:00",
+        "temperature": 20,
+        "pressure": 1002.9,
+        "humidity": 49.5,
+        "wind": 1,
+        "masini": 11627,
+        "level": "good"
+    },
+    {
+        "city": "CLUJ",
+        "aqi": 5,
+        "time": "2020-05-20 09:00:00",
+        "temperature": 14.3,
+        "pressure": 965.4,
+        "humidity": 80.6,
+        "wind": 1,
+        "masini": 41703,
+        "level": "good"
+    },
+    {
+        "city": "CONSTANTA",
+        "aqi": 31,
+        "time": "2020-05-20 10:00:00",
+        "temperature": 18.5,
+        "pressure": 1008.8,
+        "humidity": 66.3,
+        "wind": 2,
+        "masini": 31278,
+        "level": "good"
+    },
+    {
+        "city": "GALATI",
+        "aqi": 13,
+        "time": "2020-05-20 10:00:00",
+        "temperature": 20,
+        "pressure": 1002.9,
+        "humidity": 49.5,
+        "wind": 1,
+        "masini": 23440,
+        "level": "good"
+    },
+    {
+        "city": "GIURGIU",
+        "aqi": 16,
+        "time": "2020-05-20 10:00:00",
+        "temperature": 25,
+        "pressure": 1001.7,
+        "humidity": 58,
+        "wind": 3,
+        "masini": 10913,
+        "level": "good"
+    },
+    {
+        "city": "HUNEDOARA",
+        "aqi": 9,
+        "time": "2020-05-20 10:00:00",
+        "temperature": 15,
+        "pressure": 986.2,
+        "humidity": 98.1,
+        "wind": 1,
+        "masini": 17841,
+        "level": "good"
+    },
+    {
+        "city": "IASI",
+        "aqi": 18,
+        "time": "2020-05-20 10:00:00",
+        "temperature": 14,
+        "pressure": 1014.5,
+        "humidity": 87,
+        "wind": 4.3,
+        "masini": 26783,
+        "level": "good"
+    },
+    {
+        "city": "SATU MARE",
+        "aqi": 16,
+        "time": "2020-05-20 10:00:00",
+        "temperature": 16,
+        "pressure": 1014,
+        "humidity": 77,
+        "wind": 1.5,
+        "masini": 18060,
+        "level": "good"
+    },
+    {
+        "city": "SIBIU",
+        "aqi": 18,
+        "time": "2020-05-20 10:00:00",
+        "temperature": 15.1,
+        "pressure": 961.9,
+        "humidity": 93.8,
+        "wind": 4,
+        "masini": 20023,
+        "level": "good"
+    },
+    {
+        "city": "SUCEAVA",
+        "aqi": 32,
+        "time": "2020-05-20 10:00:00",
+        "temperature": 12.9,
+        "pressure": 972.6,
+        "humidity": 84.8,
+        "wind": 3,
+        "masini": 36864,
+        "level": "good"
+    },
+    {
+        "city": "TULCEA",
+        "aqi": 6,
+        "time": "2020-05-20 10:00:00",
+        "temperature": 22.9,
+        "pressure": 1010.5,
+        "humidity": 48.9,
+        "wind": 2,
+        "masini": 9751,
+        "level": "good"
+    },
+    {
+        "city": "VASLUI",
+        "aqi": 29,
+        "time": "2020-05-20 10:00:00",
+        "temperature": 16.3,
+        "pressure": 1005.9,
+        "humidity": 69.5,
+        "wind": 3,
+        "masini": 12836,
+        "level": "good"
+    },
+    {
+        "city": "VALCEA",
+        "aqi": 8,
+        "time": "2020-05-20 10:00:00",
+        "temperature": 18.2,
+        "pressure": 982,
+        "humidity": 88.7,
+        "wind": 1,
+        "masini": 17479,
+        "level": "good"
+    },
+    {
+        "city": "BUCURESTI",
+        "aqi": 43,
+        "time": "2020-05-20 10:00:00",
+        "temperature": 25,
+        "pressure": 1001.7,
+        "humidity": 58,
+        "wind": 3,
+        "masini": 179662,
+        "level": "good"
+    }
+]
